@@ -29,7 +29,8 @@
                 "src/module-loader.js",
                 "src/modules/add-calendar-info.js",
                 "src/modules/week-totals.js",
-                "src/modules/show-only-current-week.js"
+                "src/modules/show-only-current-week.js",
+                "src/modules/add-button-copy-checkin.js"
             ],
             "css": [
                 "styles/variables.css"
